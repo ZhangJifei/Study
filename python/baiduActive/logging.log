@@ -1,0 +1,48 @@
+2016-02-11 19:12:05,340 - myLogging.py:15 - logging - first info message
+2016-02-11 19:13:05,408 - myLogging.py:15 - logging - first info message
+2016-02-11 19:14:06,793 - myLogging.py:15 - logging - first info message
+2016-02-11 19:14:49,464 - myLogging.py:15 - logging - first info message
+2016-02-11 19:14:50,179 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=08jB9fT3Wipqqur0lapYf90qMDV5vvZ8J0I0ckBfZwGzAhX7yaQEfBsGMsg6MKNb
+2016-02-11 19:14:50,724 - baiduActive.py:33 - logging - http://cd.58.com/mianbumeir/23435086794014x.shtml?PGTID=0d000000-0301-77a5-a9fc-d94212c8db35&ClickID=1
+2016-02-11 19:14:50,847 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=uTAJ75_0KNnqYhqxXa_tZG5pBRcEk6tdruySI55U9wzb190mv0GhRvcY2s_Ky8o1w6_c14Nw7XPxr5-35fa5HkklS2b-UyUtx3Fd_0fLSREfvYq0aVoZ5B2kIBLbeLTP
+2016-02-11 19:14:51,258 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=aVMmx7J55_9_9hUm9o2suqgFwRg0nqUOdhqNqylYKH7KSYYVFaryRehBMafeRFp8v1TlzMsBhd_snFPx5HgWqxWxfsrN89UBf4Hf8rxOeODvjo3z2sq4zKjQ9Qmg9YKsMYf9_SjZIT8qrdylLhEYD_
+2016-02-11 19:15:02,069 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=0Cmn-P5clvCAlBwPU93BpEplgBjarneQNp-MN5mEd3jHjFKcKv87qHM3N-sDJ9i1GDWfjJp05pv7krImX-QTDK
+2016-02-11 19:15:02,286 - baiduActive.py:39 - logging - http://www.dianping.com/shop/23583529
+2016-02-11 19:15:13,132 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=XmG0LAvVAuevPKLSyAeEvBLACbuThyJvwMnG8iXfUQdVf-ykXRYftao7u_hI-qx-NLaiI1Ju5I-oqhJ1yFb_ea
+2016-02-11 19:15:23,806 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=sJobKVvcqfg6jueMpmgwRr8OLK9oLgBaL6ATcmmA5Rbqfu4aJtszIMO--v3_O7_f
+2016-02-11 19:15:26,067 - baiduActive.py:33 - logging - http://cd.58.com/mianbumeir/23435086794014x.shtml?PGTID=0d000000-0301-77a5-a9fc-d94212c8db35&ClickID=1
+2016-02-11 19:15:36,553 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=LzmxnXEQJiB1Cv8XUQLxgQff3Cj0CS77JIx2wEAEb02i3byZQZOVlzxGSp5HyI-1
+2016-02-11 19:15:36,928 - baiduActive.py:28 - logging - http://www.dianping.com/shop/23583529
+2016-02-11 19:15:47,498 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=uD13FIn75wIq2BjNLaGZviojMJAlvXL08jTcURhdbjI7il-ELK1Hfrf8TUw3eklbgZkHVtkkZwWLeVKlt6sU3q
+2016-02-11 19:15:58,117 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=89KhEb4edhWOEkFlqToKqMwJugT-BubMUSUYvxc9yxxAxsU5WQArHrQbg0bErkEKewu4en0bv9G1zoBncwaR4a
+2016-02-11 19:15:58,280 - baiduActive.py:39 - logging - http://www.dianping.com/shop/23583529
+2016-02-11 19:16:11,203 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=tQ81bRZcACqpgVnZaBnNgnWlGBy4anulCA6w856XgX-LvAeyhCz9SiyOHTX6qJvB
+2016-02-11 19:16:32,321 - baiduActive.py:39 - logging - http://www.dianping.com/shop/23583529
+2016-02-11 19:16:53,438 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=wUYcZtw9WNJTyy4du7c9-Z5OLkx5-CuxFmpOFCHMdnuKkaW6LfieSa-Gu8FZhoyz
+2016-02-11 19:16:54,224 - baiduActive.py:28 - logging - http://www.dianping.com/shop/23583529
+2016-02-11 19:16:54,527 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=LLvbd9WKbS_ndDVRiWMVtODY4TKPNaQWJo6wHn3NO16YhvbyBOTCCyXwbytE7mR0
+2016-02-11 19:16:54,986 - baiduActive.py:33 - logging - http://cd.58.com/mianbumeir/23435086794014x.shtml?PGTID=0d000000-0301-77a5-a9fc-d94212c8db35&ClickID=1
+2016-02-11 19:18:40,636 - myLogging.py:15 - logging - first info message
+2016-02-11 19:18:41,024 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=2rbSketT1GnNwxPssdsDDk4658zAHJPmKRVcca-iyNWOQ3zA2INGapW4gAjdQWm7
+2016-02-11 19:18:41,518 - baiduActive.py:33 - logging - http://cd.58.com/mianbumeir/23435086794014x.shtml?PGTID=0d000000-0301-77a5-a9fc-d94212c8db35&ClickID=1
+2016-02-11 19:18:41,703 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=yIShx257RakZPW_PWdNj8BNVru1hFe0qgHXt6hlf6TJkGJjtMxubpbdqYzaX7Pw9otZIRdyNHDceUtImEhVao1uoyoqTDhtFYK_KWObud62fRjdgHefYqZY3_GQxaWmZ
+2016-02-11 19:18:42,167 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=uBweoUBbJ-6h7EvNZT8V2_HWGyb9iNDxqtm7vTxxo2MblC-EhRi8J_GfRBwNJ6CPfPVsCHm-cI5xOle7BljV0hwPRbV6salJRvlzkhJ0pVtP9nIUlTNVZEnvn5Df6srH9kZOdn9EElAR3xVEKgulma
+2016-02-11 19:18:45,606 - myLogging.py:15 - logging - first info message
+2016-02-11 19:18:46,052 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=CApkGm9qNHdRtyBuWKPNrb71jKwRqLbHEdahcHEU8QsFxxbJCaPPC_cQ7G-5vl-6
+2016-02-11 19:18:46,414 - baiduActive.py:33 - logging - http://cd.58.com/mianbumeir/23435086794014x.shtml?PGTID=0d000000-0301-77a5-a9fc-d94212c8db35&ClickID=1
+2016-02-11 19:18:47,875 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=_msIN71rNQnHlPsZlr4UCn0Rj_cjHYr3JoCcF-n1HTnV9wJKLpGEXEvmsa43diAWwNoFrcd9RlYz-nVPivmr0-eixehAvzyvzVBEwHxPRYb25KVxBC5TwxW16qSqj_tj
+2016-02-11 19:18:48,315 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=1kV0h7NRYbo18zwEjxYi_JxZ_Y_zs_BM2kwEXTJiFFjjt3u1ku56H-1vxw2hYD7VKLEzoBz3GCf6UZuprqhGaSmZMQXDe1wFe7zjaGbeiAhKMUrAqS9CW1GVaXX9bBrE9mjH5E1DXTBIobtP-jHQ4q
+2016-02-11 19:18:52,963 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=IPeVs0_GAy6bbDmK0j3YNDcIIjMn2U5Hgf-qKVGwLjX42l-3Igomej2Sl0zO0USE6P0gkgPr6dMceCrxR0E4hq
+2016-02-11 19:18:53,142 - baiduActive.py:39 - logging - http://www.dianping.com/shop/23583529
+2016-02-11 19:21:46,777 - myLogging.py:15 - logging - first info message
+2016-02-11 19:21:47,455 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=OPm7SMHuJHoi_IuKQD8ocj95QMlPRwUDZS4tGwQrMgsO62pso5wvNnP_Ka55-N3_
+2016-02-11 19:21:48,075 - baiduActive.py:33 - logging - http://cd.58.com/mianbumeir/23435086794014x.shtml?PGTID=0d000000-0301-77a5-a9fc-d94212c8db35&ClickID=1
+2016-02-11 19:21:49,434 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=59RvPEFz2juqERWSWW7awAhZ3QaLoq8zljUQQc2lBYoNAjgID5AJUtImQSJ6vd6puIcpwBoJts9NyKj5BFa6Zu9mdzsofg3V2H6y3SuDbhTAroESaUzJ6F11D8O07qNk
+2016-02-11 19:21:49,847 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=phPxVWczS3sJdyZaQL1pwHTYkSHt6iBbvoYBt3k8CQRcpY9ntwQLvbmDFWg3Qb_ZtbFoMzsHxBZ57C30ZCovHNmbuFxJveTeZsYdua2rgoT1j1ttYvYcN8EKVFFi2eazABjutL1qrX6oVeBJNUAaIK
+2016-02-11 19:22:00,752 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=b3MFLzD5CwmUvNiLqHMrfnNEzkd-UijihXIO1hB_Eed3Feo3FHp0JV9DYdrboWyd4q_CJjA5cEuwFPTXsPJoKK
+2016-02-11 19:22:01,005 - baiduActive.py:39 - logging - http://www.dianping.com/shop/23583529
+2016-02-11 19:22:11,726 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=pB9lYTw6d5gLr-F60MYPiCrFhphsQfhZBb_CWijxv6pQzfwhRMsxS5W2DVJJjYRVxg8WJM2RekJA1krnWNuXbK
+2016-02-11 19:22:22,417 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=428Qcm_pWblnaLJlOuHLhZJ6v4WV1I5jLKDkiSe64Wgmg8tGllK1BAQmbSPMsTYS
+2016-02-11 19:22:22,740 - baiduActive.py:33 - logging - http://cd.58.com/mianbumeir/23435086794014x.shtml?PGTID=0d000000-0301-77a5-a9fc-d94212c8db35&ClickID=1
+2016-02-11 19:22:33,170 - baiduActive.py:23 - logging - http://www.baidu.com/link?url=dcYQX88gefuu5_uGHWCOIByyDmbJyA3k1LiRNmFUQTuMosJJiGez13kSComG3E4N
+2016-02-11 19:22:33,557 - baiduActive.py:28 - logging - http://www.dianping.com/shop/23583529

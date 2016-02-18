@@ -25,11 +25,6 @@ def baidu_search(words, page):
                     logger.info (url_temp)
                     with request.urlopen(request.Request(url=url_temp, headers=headers)) as f_temp:pass
 
-                    # special access to the link for 大众点评
-                    if re.match(r'.*大众点评.*',line):
-                        logger.info (url_dianping_temp)
-                        with request.urlopen(request.Request(url=url_dianping_temp, headers=headers)) as f_dianping_temp:pass
-
                     # special access to the link for 58
                     if re.match(r'.*成都58同城.*',line):
                         logger.info (url_58_temp)
@@ -37,8 +32,7 @@ def baidu_search(words, page):
 
     except Exception as e:
         logging.exception(e)
-        if re.match(r'.*大众点评.*',line):
-            logger.info (url_dianping_temp)
-            with request.urlopen(request.Request(url=url_dianping_temp, headers=headers)) as f_dianping_temp:pass
+        logger.info ('An exception happen here when search %s at page %d ' % words, page)
+
 
 

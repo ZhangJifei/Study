@@ -12,4 +12,4 @@ logger = logging.getLogger('logging')    # 获取名为logging的logger
 logger.addHandler(handler)           # 为logger添加handler
 logger.setLevel(logging.DEBUG)
 
-logger.info('first info message')
+logger.info('Start infor logging \n')

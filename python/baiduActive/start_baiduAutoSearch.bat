@@ -1,0 +1,1 @@
+C:\Users\Administrator.55NKBZLRX9P2UQH.000\AppData\Local\Programs\Python\Python35\python.exe D:\works\study\Study\python\baiduActive\mainSearch.py
